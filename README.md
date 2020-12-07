@@ -48,3 +48,17 @@ def main():
         exit()
     parse_article(dblp_path, save_path, save_to_csv=False)  # default save as json format
 ```
+
+
+# Part2 : Running for  Datasets
+
+Please run the ```Yelp_dataset.ipynb``` for running the YELp dataset
+
+Please run the centrality_measure.py for citation network analysis
+
+All the rest of the analysis done using Microsoft Academic Dataset
+
+
+# Conclusion Granger Casuality Measure
+
+To run granger casuality measure please run the ```granger.ipynb``` file for that.
